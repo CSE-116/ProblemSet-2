@@ -5,6 +5,7 @@ import static org.junit.Assert.assertNull;
 import org.junit.Test;
 
 import problem.datastructures.LinkedListNode;
+import problem.*;
 
 public class TestProblemSet2 {
 
