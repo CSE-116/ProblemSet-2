@@ -14,7 +14,7 @@ public class TestProblemSet2 {
     // ----- (command+/ on mac)
     // ----- These tests will not compile until you have written the required
     // ----- methods in the
-    // ----- StringList and TestUtils classes.
+    // ----- StringList class.
 
     // @Test
     // public void testDeleteElement() {
